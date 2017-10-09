@@ -1,0 +1,11 @@
+C:\Users\Søren\source\repos\Movies\Movies\bin\Debug\netcoreapp2.0\Movies.deps.json
+C:\Users\Søren\source\repos\Movies\Movies\bin\Debug\netcoreapp2.0\Movies.runtimeconfig.json
+C:\Users\Søren\source\repos\Movies\Movies\bin\Debug\netcoreapp2.0\Movies.runtimeconfig.dev.json
+C:\Users\Søren\source\repos\Movies\Movies\bin\Debug\netcoreapp2.0\Movies.dll
+C:\Users\Søren\source\repos\Movies\Movies\obj\Debug\netcoreapp2.0\Movies.csproj.CoreCompileInputs.cache
+C:\Users\Søren\source\repos\Movies\Movies\obj\Debug\netcoreapp2.0\Movies.AssemblyInfoInputs.cache
+C:\Users\Søren\source\repos\Movies\Movies\obj\Debug\netcoreapp2.0\Movies.AssemblyInfo.cs
+C:\Users\Søren\source\repos\Movies\Movies\bin\Debug\netcoreapp2.0\Movies.pdb
+C:\Users\Søren\source\repos\Movies\Movies\obj\Debug\netcoreapp2.0\Movies.csprojResolveAssemblyReference.cache
+C:\Users\Søren\source\repos\Movies\Movies\obj\Debug\netcoreapp2.0\Movies.dll
+C:\Users\Søren\source\repos\Movies\Movies\obj\Debug\netcoreapp2.0\Movies.pdb
